@@ -1,2 +1,2 @@
 # CatPhotoApp
-my first app with freecatphotoapp
+my first app with freecodecamp
